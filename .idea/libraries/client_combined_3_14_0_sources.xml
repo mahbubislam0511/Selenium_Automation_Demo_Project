@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="client-combined-3.14.0-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Selenium/Selenium 3.14/client-combined-3.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Selenium/Selenium 3.14/client-combined-3.14.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
